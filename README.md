@@ -1,2 +1,3 @@
+We aim to bring together talented developers, designers and dreamers dedicated to building the digital world of the future. Whether it's developing innovative apps, designing engaging user experiences, or driving open technological advances, we believe that our horizons are limitless and our potential is unlimited.
 
-Infinite Vision
+Explore infinite possibilities! Join Infinite Vision and collaborate with talented creators and developers to build exciting open source projects. Here, innovation has no limits and dreams have no boundaries. Together, we will create the future, and together, we will write Infinite Vision!
